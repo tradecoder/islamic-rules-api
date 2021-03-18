@@ -3,11 +3,15 @@
     "description":"Quoted from Al-Quran and Al-Hadith",
     "version":"1.0.0",
     "type":"Open Source",
-    "modification":"Allowed with absolute reference",
-    "access":"Open to use read-only data from this source and not permitted to mix anything with it for any case",
-    "data":{
+    "edit-permission":"Allowed with absolute reference from major islamic books",
+    "access-permission":"Open to use read-only data from this source and not permitted to mix anything with it for any case",
+        "data":{
         "prayer":{
-            
+
         }
-    }
+    },
+
+    "editors":[
+        {"name":"Mamun Abdullah", "designation":"", "organization":"", "profile-url":""}
+    ]
 }
