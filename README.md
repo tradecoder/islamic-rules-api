@@ -1,1 +1,1 @@
-# public-api
+# Islamic Rules API => JSON
