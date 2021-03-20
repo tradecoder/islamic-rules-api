@@ -5,8 +5,9 @@
     "type":"Open Source",
     "author":"Mamun Abdullah @ TradeCoder",
     "language":{"key":"English", "content":"Bangla", "origin":"Arabic"},
-    "edit-permission":"Allowed with absolute reference from major islamic books",
-    "access-permission":"Open to use read-only data from this source and not permitted to mix anything with it for any case",
+    "edit-permission":"Allowed with absolute reference from major islamic books.",
+    "access-permission":"Open to use read-only data from this source and not permitted to mix anything withit for any case.",
+    "prohibition":"Any advertisement on the page where this content will be shown is completely prohibited.",
     "data":{
         "prayer":[
             {
