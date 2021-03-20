@@ -4,6 +4,7 @@
     "version":"1.0.0",
     "type":"Open Source",
     "author":"Mamun Abdullah @ TradeCoder",
+    "language":"Bangla",
     "edit-permission":"Allowed with absolute reference from major islamic books",
     "access-permission":"Open to use read-only data from this source and not permitted to mix anything with it for any case",
     "data":{
@@ -11,61 +12,11 @@
             {
                 "title": {
                     "arabic":"",
-                    "bangla":"",
-                    "english":""                    
+                    "bangla":""                        
                 },
                 "quotes-with-reference":{
                     "arabic":"",
-                    "bangla":"",
-                    "english":""
-                }
-            },
-            {
-                "title": {
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""                    
-                },
-                "quotes-with-reference":{
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""
-                }
-            },
-            {
-                "title": {
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""                    
-                },
-                "quotes-with-reference":{
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""
-                }
-            },
-            {
-                "title": {
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""                    
-                },
-                "quotes-with-reference":{
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""
-                }
-            },
-            {
-                "title": {
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""                    
-                },
-                "quotes-with-reference":{
-                    "arabic":"",
-                    "bangla":"",
-                    "english":""
+                    "bangla":"",                   
                 }
             }
         ]
