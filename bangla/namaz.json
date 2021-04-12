@@ -11,14 +11,8 @@
     "data":{
         "prayer":[
             {
-                "title": {
-                    "arabic":"",
-                    "bangla":""                        
-                },
-                "quotes-with-reference":{
-                    "arabic":"",
-                    "bangla":""                 
-                }
+               "title":"",
+                "quotes-with-reference":""
             }
         ]
     },
